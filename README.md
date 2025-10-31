@@ -2,7 +2,6 @@
 
 This is my maker portfolio. Below are some of my featured projects:
 
-## Projects
 - [Particulate Prognostics](https://github.com/rachelkim/particulate-prognostics)
 -   A predictive model for daily PM2.5 levels using machine learning and environmental data.
   
