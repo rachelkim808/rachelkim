@@ -1,7 +1,6 @@
-# WELCOME, I'm Rachel!
+# WELCOME, I'm Rachel :D
 
-This is my maker portfolio
-Below are some of my featured projects
+This is my maker portfolio! Below are some of my featured projects
 
 ## Projects
 - [Particulate Prognostics](https://github.com/rachelkim/particulate-prognostics) — Predictive model for daily PM2.5 levels using machine learning and environmental data.
